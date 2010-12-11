@@ -1,0 +1,109 @@
+/Users/yuheimiyazato/Desktop/entropydb_test/Classes/entropydb_testViewController.m: In function '-[entropydb_testViewController sync:]':
+/Users/yuheimiyazato/Desktop/entropydb_test/Classes/entropydb_testViewController.m:62: error: void value not ignored as it ought to be
+{standard input}:402:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000002$pb"
+{standard input}:402:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:394:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000002$pb"
+{standard input}:394:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+{standard input}:387:non-relocatable subtraction expression, "L_OBJC_IVAR_$_entropydb_testViewController.container$non_lazy_ptr" minus "L00000000002$pb"
+{standard input}:387:symbol: "L_OBJC_IVAR_$_entropydb_testViewController.container$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:377:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"
+{standard input}:377:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:368:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000002$pb"
+{standard input}:368:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:365:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000002$pb"
+{standard input}:365:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+{standard input}:286:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+{standard input}:286:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:283:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+{standard input}:283:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:277:non-relocatable subtraction expression, "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:277:symbol: "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:268:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+{standard input}:268:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:261:non-relocatable subtraction expression, "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:261:symbol: "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:246:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+{standard input}:246:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:240:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+{standard input}:240:symbol: "LC2" can't be undefined in a subtraction expression
+{standard input}:237:non-relocatable subtraction expression, "LC5" minus "L00000000001$pb"
+{standard input}:237:symbol: "LC5" can't be undefined in a subtraction expression
+{standard input}:234:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+{standard input}:234:symbol: "LC1" can't be undefined in a subtraction expression
+{standard input}:231:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+{standard input}:231:symbol: "LC0" can't be undefined in a subtraction expression
+{standard input}:224:non-relocatable subtraction expression, "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:224:symbol: "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:216:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+{standard input}:216:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:208:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+{standard input}:208:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:205:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+{standard input}:205:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+{standard input}:196:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+{standard input}:196:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:193:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+{standard input}:193:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:187:non-relocatable subtraction expression, "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:187:symbol: "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:178:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+{standard input}:178:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:171:non-relocatable subtraction expression, "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:171:symbol: "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:156:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+{standard input}:156:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:150:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+{standard input}:150:symbol: "LC2" can't be undefined in a subtraction expression
+{standard input}:147:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+{standard input}:147:symbol: "LC2" can't be undefined in a subtraction expression
+{standard input}:144:non-relocatable subtraction expression, "LC1" minus "L00000000001$pb"
+{standard input}:144:symbol: "LC1" can't be undefined in a subtraction expression
+{standard input}:141:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+{standard input}:141:symbol: "LC0" can't be undefined in a subtraction expression
+{standard input}:134:non-relocatable subtraction expression, "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:134:symbol: "L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:126:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:126:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:118:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+{standard input}:118:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:115:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+{standard input}:115:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+{standard input}:108:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+{standard input}:108:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:102:non-relocatable subtraction expression, "L_OBJC_IVAR_$_entropydb_testViewController.container$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:102:symbol: "L_OBJC_IVAR_$_entropydb_testViewController.container$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:94:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+{standard input}:94:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+{standard input}:88:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+{standard input}:88:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:85:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+{standard input}:85:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+{standard input}:79:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+{standard input}:79:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:75:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+{standard input}:75:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_entropydb_testViewController.container$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_entropydb_testViewController.btn$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol LC0
+{standard input}:unknown:Undefined local symbol LC1
+{standard input}:unknown:Undefined local symbol LC2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+{standard input}:unknown:Undefined local symbol LC5
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
